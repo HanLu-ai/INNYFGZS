@@ -49,6 +49,7 @@ header ul {
     display: flex;
     background-color: rgb(255, 255, 255);
     justify-content: space-between;
+    font-size:  30px;
 }
 .third {
     display:flex;
